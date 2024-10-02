@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CompetitiveTimer</string>
+    <string name="init_time">0:00:00</string>
+    <string name="button_start">Пуск</string>
+    <string name="button_pause">Пауза</string>
+    <string name="button_reset">Сброс</string>
+    <string name="button_circle">Круг</string>
+    <string name="button_сompetition">Соревнование</string>
+    <string name="button_send">Отправить</string>
+    <string name="radiobutton_pause">Поставить на паузу при сворачивании</string>
+    <string name="radiobutton_continue">Не ставить на паузу при сворачивании</string>
+    <string name="сompetition_result">Результат участника:</string>
+    <string name="сompetition_results">Результаты участников:</string>
+    <string name="hint_name">Имя участника</string>
+    <string name="choose">Кому вы хотите отправить сообщение?</string>
+</resources>
