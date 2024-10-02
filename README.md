@@ -1,2 +1,2 @@
 # Description
-Simple Competitive Timer mobile application based on Android Studio
+Simple competitive timer mobile application based on Android Studio
